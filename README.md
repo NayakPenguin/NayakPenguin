@@ -37,9 +37,9 @@
 <p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nayaker&show_icons=true&locale=en" alt="nayaker" /></p>
 
 <br/><br/>
----
 
-### Latest YouTube videos
+### Messages from Authors
+
 <table>
   <tr>
     <th>Author</th>
