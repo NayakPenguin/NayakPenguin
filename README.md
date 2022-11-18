@@ -36,6 +36,10 @@
 <br/>
 <p style="width: 100%; display: block;"><img src="https://github-readme-stats.vercel.app/api?username=nayaker&show_icons=true&locale=en" alt="nayaker" /></p>
 
+---
+
+### Testimonials
+
 <table>
   <tr>
     <th>Author</th>
