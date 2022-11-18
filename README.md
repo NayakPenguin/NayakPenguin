@@ -29,9 +29,6 @@
 <a href="https://linkedin.com/in/atanu-nayak-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atanu-nayak-profile" height="30" width="40" /></a>
 </p>
 
-<br/><br/>
-
-
 ---
 
 ### Languages and Tools:
