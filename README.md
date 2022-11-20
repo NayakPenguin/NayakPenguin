@@ -40,16 +40,16 @@
 
 ### Testimonials (Working on this section)
 
-<table>
+{* <table>
   <tr>
     <th>Author</th>
     <th>Message</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/urlichsanais/status/1349358736092094467">Anaïs Urlichs</a></td>
+    <td><a target="_blank" href="/">Anaïs Urlichs</a></td>
     <td>Atanu Nayak is probably the most genuine and kind person I know in tech 🥰 providing opportunities and consistently cheering without expecting anything in return! He just recommended me for a podcast 😱</td>
   </tr>
-    <td><a target="_blank" href="https://twitter.com/allanregush/status/1304484456221167617">Allan Regush</a></td>
+    <td><a target="_blank" href="/">Allan Regush</a></td>
     <td>Working with @Nayaker and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start.</td>
   </tr>
-</table>
+</table> *}
